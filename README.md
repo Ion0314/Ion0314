@@ -4,6 +4,7 @@
 
 Rock Paper Scissors Minigame-> https://replit.com/@thunderhawk314/Rock-Paper-Scissors-by-Ian-Reed
 
+Hangman Minigame-> https://replit.com/@thunderhawk314/Hangman-Minigame
 <h2> 📜 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
